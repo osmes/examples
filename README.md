@@ -1,2 +1,2 @@
-# jonexamples
-A collection of example CLI scripts and bundles for RHQ and JBoss ON.
+# examples
+A collection of examples composed of scripts, utilities, and projects for testing, verifying, or resolving issues.
